@@ -3,7 +3,6 @@
 namespace Drupal\custom_template_routing\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
-use Drupal\node\Entity\Node;
 
 class CustomRoute extends ControllerBase {
     public function content() {
