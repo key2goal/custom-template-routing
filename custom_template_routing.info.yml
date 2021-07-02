@@ -1,0 +1,4 @@
+name: Custom template routing
+description: template for custom route drupal8
+core: 8.x
+type: module
